@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/spoke-design-project/static/css/main.139a6cf0.css",
+    "main.js": "/spoke-design-project/static/js/main.ac6c1683.js",
+    "static/js/787.79b04e7c.chunk.js": "/spoke-design-project/static/js/787.79b04e7c.chunk.js",
+    "static/media/top-background.png": "/spoke-design-project/static/media/top-background.3efc925a6e0f73518258.png",
+    "static/media/product-bg.png": "/spoke-design-project/static/media/product-bg.0626c901ccb173ee1edc.png",
+    "static/media/review-bg.png": "/spoke-design-project/static/media/review-bg.037d3db1cb395a288d19.png",
+    "static/media/manufacture.png": "/spoke-design-project/static/media/manufacture.434c2c427a42b3357cf8.png",
+    "static/media/financial.png": "/spoke-design-project/static/media/financial.0ce952a2757afa7946ad.png",
+    "static/media/healthcarse.png": "/spoke-design-project/static/media/healthcarse.89f26f5674579b8b86db.png",
+    "static/media/latest.png": "/spoke-design-project/static/media/latest.f3c97637428c3d03eed3.png",
+    "static/media/marketing.png": "/spoke-design-project/static/media/marketing.0ee3db08da0784d4867b.png",
+    "static/media/insurance.png": "/spoke-design-project/static/media/insurance.0368146ba26f8864b034.png",
+    "static/media/logo2.png": "/spoke-design-project/static/media/logo2.e292d483b9dc8020f8c4.png",
+    "static/media/logo.svg": "/spoke-design-project/static/media/logo.58a2d414de7d441efe5f3e5a4fbaae97.svg",
+    "index.html": "/spoke-design-project/index.html",
+    "main.139a6cf0.css.map": "/spoke-design-project/static/css/main.139a6cf0.css.map",
+    "main.ac6c1683.js.map": "/spoke-design-project/static/js/main.ac6c1683.js.map",
+    "787.79b04e7c.chunk.js.map": "/spoke-design-project/static/js/787.79b04e7c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.139a6cf0.css",
+    "static/js/main.ac6c1683.js"
+  ]
+}
